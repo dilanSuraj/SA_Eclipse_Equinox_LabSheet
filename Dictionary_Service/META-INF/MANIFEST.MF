@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Dictionary_Service
+Bundle-SymbolicName: Dictionary_Service
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: Dictionary_Service
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: org.osgi.framework;version="1.9.0"
+Export-Package: tutorial.example2.service
+Bundle-Activator: tutorial.example2.Activator
