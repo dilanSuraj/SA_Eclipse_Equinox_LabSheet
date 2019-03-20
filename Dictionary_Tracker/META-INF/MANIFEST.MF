@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Dictionary_Tracker
+Bundle-SymbolicName: Dictionary_Tracker
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: Dictionary_Tracker
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: org.osgi.framework;version="1.9.0",
+ org.osgi.util.tracker;version="1.5.2",
+ tutorial.example2.service
+Bundle-Activator: tutorial.example5.Activator
+
